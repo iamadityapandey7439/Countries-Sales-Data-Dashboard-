@@ -1,8 +1,8 @@
-### 🧾 **Dashboard Overview: Country Sales Data**
+### 🧾 **Dashboard Overview: Sales Data**
 
 #### ✅ **Purpose:**
 
-To analyze and present sales performance across different countries, helping stakeholders understand key metrics such as revenue, profit, sales trends, and regional performance.
+To analyze and present sales performance across different city , helping stakeholders understand key metrics such as revenue, profit, sales trends, and regional performance.
 
 ---
 
